@@ -29,14 +29,13 @@ listas_produtos =['iphone','airpod','ipad','macbook']
 listas_produtos.append("apple watch")
 print(listas_produtos)
 
-#remover im item na lista
+#remover um item na lista
 listas_produtos.remove("apple watch")
 print(listas_produtos)
 listas_produtos.pop(0)
 print(listas_produtos)
 #editar um item
 precos =[1000,1500,3500]
-precos[0]=6000
 print(precos)
 
 
